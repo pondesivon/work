@@ -1,1 +1,4 @@
 # work
+
+##posts
+[Example Post]
